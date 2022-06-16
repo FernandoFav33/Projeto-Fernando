@@ -1,0 +1,13 @@
+C:\Users\Pri_e_Fer\Desktop\Estudo\Projeto_Fernando\Projeto_Fernando\bin\Debug\Projeto_Fernando.exe.config
+C:\Users\Pri_e_Fer\Desktop\Estudo\Projeto_Fernando\Projeto_Fernando\bin\Debug\Projeto_Fernando.exe
+C:\Users\Pri_e_Fer\Desktop\Estudo\Projeto_Fernando\Projeto_Fernando\bin\Debug\Projeto_Fernando.pdb
+C:\Users\Pri_e_Fer\Desktop\Estudo\Projeto_Fernando\Projeto_Fernando\obj\Debug\Projeto_Fernando.csprojAssemblyReference.cache
+C:\Users\Pri_e_Fer\Desktop\Estudo\Projeto_Fernando\Projeto_Fernando\obj\Debug\Projeto_Fernando.Properties.Resources.resources
+C:\Users\Pri_e_Fer\Desktop\Estudo\Projeto_Fernando\Projeto_Fernando\obj\Debug\Projeto_Fernando.csproj.GenerateResource.cache
+C:\Users\Pri_e_Fer\Desktop\Estudo\Projeto_Fernando\Projeto_Fernando\obj\Debug\Projeto_Fernando.csproj.CoreCompileInputs.cache
+C:\Users\Pri_e_Fer\Desktop\Estudo\Projeto_Fernando\Projeto_Fernando\obj\Debug\Projeto_Fernando.exe
+C:\Users\Pri_e_Fer\Desktop\Estudo\Projeto_Fernando\Projeto_Fernando\obj\Debug\Projeto_Fernando.pdb
+C:\Users\Pri_e_Fer\Desktop\Estudo\Projeto_Fernando\Projeto_Fernando\obj\Debug\Projeto_Fernando.Form1.resources
+C:\Users\Pri_e_Fer\Desktop\Estudo\Projeto_Fernando\Projeto_Fernando\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Pri_e_Fer\Desktop\Estudo\Projeto_Fernando\Projeto_Fernando\obj\Debug\Projeto_Fernando.csproj.CopyComplete
+C:\Users\Pri_e_Fer\Desktop\Estudo\Projeto_Fernando\Projeto_Fernando\bin\Debug\Oracle.ManagedDataAccess.dll
